@@ -1,0 +1,6 @@
+Hello everyone
+how are you?
+
+
+
+I am file f2.txt
